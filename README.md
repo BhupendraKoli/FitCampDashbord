@@ -24,7 +24,7 @@ To explore the dashboard:
 2. Open it in **Power BI Desktop**  
 
 ## 📷 Dashboard Preview
-![Dashboard Preview]()  
+![Dashboard Preview](https://github.com/BhupendraKoli/FitCampDashbord/blob/main/Screenshot%202025-10-03%20150544.png)  
 
 ## 🔮 Future Improvements
 - Automating data refresh with Power BI Service  
@@ -33,5 +33,5 @@ To explore the dashboard:
 
 ## 📬 Contact
 If you’d like to connect or collaborate:  
-- **LinkedIn:** [Your Profile Link]  
-- **GitHub:** [Your GitHub Link]  
+- **LinkedIn:** [linkedin.com/in/bhupendra-koli-]  
+- **GitHub:** [https://github.com/BhupendraKoli/FitCampDashbord/tree/main]  
